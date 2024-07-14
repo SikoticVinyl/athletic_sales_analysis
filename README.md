@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze athletic sales data from the years 2020 and 2021 to identify top-performing regions, retailers, and time periods. The analysis focuses on combining, cleaning, and exploring the data to gain valuable insights into sales performance.
+This project aims to analyze athletic sales data from the years 2020 and 2021 to identify top-performing regions, retailers, and time periods. The analysis focuses on combining, cleaning, and exploring the data to gain valuable insights into sales performance for educaional purposes.
 
 ## Objectives
 
@@ -42,9 +42,5 @@ So far, I have:
 - Combined and cleaned the data from 2020 and 2021.
 - Practiced using `groupby` and `pivot_table` functions.
 - Gained a better understanding of data aggregation and analysis techniques.
-
-## Next Steps
-
-- Complete the remaining analysis tasks.
-- Visualize the results using appropriate plots.
-- Summarize the findings in a report.
+- Completed the analysis tasks and summarized the findings.
+- Binned data by day and week and begun understanding binning
